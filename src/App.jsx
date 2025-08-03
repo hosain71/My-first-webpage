@@ -5,9 +5,9 @@ function App() {
 
 
   return (
-<div>
-<Root />
-</div>
+    <div>
+        <Root />
+    </div>
   )
 }
 

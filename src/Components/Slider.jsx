@@ -2,7 +2,7 @@ import React from 'react';
 
 const Slider = () => {
     return (
-        <div className='bg-blue-400 container mx-auto p-2 my-5  '>
+        <div className='bg-[#040000c0] container mx-auto p-2 my-5 text-white '>
 <marquee behavior="" direction="">
     <h1 className='text-2xl'>
         আমরা করবো জয় নিশ্চয়। ইনশাআল্লাহ।
