@@ -4,7 +4,7 @@ const Project = () => {
     return (
         <div className='container  mx-auto'>
             <h1>
-                Project
+                Project .
             </h1>
         </div>
     );
